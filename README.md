@@ -89,11 +89,6 @@ This project aims to predict economic development by analyzing changes in nightt
 
 ---
 
-## Contributors
-- [Mousa Ashraf]([https://github.com/your-username](https://github.com/MousaAshraf))
-- [Peter Botors]
----
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
